@@ -1,0 +1,16 @@
+{
+  "flow": {
+    "versionName": "x.y.z",
+    "versionCode": 12345,
+    "url": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/flow-x.y.z/flowtv.xapk",
+    "sha256": "output of: sha256sum flowtv.xapk",
+    "notes": "Optional changelog shown on the TV"
+  },
+  "updater": {
+    "versionName": "1.0",
+    "versionCode": 1,
+    "url": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/updater-1.0/FlowUpdater.apk",
+    "sha256": "",
+    "notes": ""
+  }
+}
