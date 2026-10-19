@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.family.flowupdater"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.family.flowupdater"
         minSdk = 22          // Fire OS 5 (Android 5.1) and newer
-        targetSdk = 33
+        targetSdk = 36
         versionCode = 1      // bump on every new release of the updater
         versionName = "1.0"
     }

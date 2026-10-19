@@ -5,7 +5,7 @@ import org.json.JSONObject
 object Config {
     /** Raw URL of your manifest.json on GitHub. CHANGE THIS. */
     const val MANIFEST_URL =
-        "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/manifest.json"
+        "https://raw.githubusercontent.com/emecede/FlowUpdater/main/manifest.json"
 
     const val FLOW_PACKAGE = "ar.com.flow.androidtv"
 }
