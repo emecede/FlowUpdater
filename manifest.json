@@ -1,9 +1,9 @@
 {
   "flow": {
-    "versionName": "4.109.1",
-    "versionCode": "905090001",
-    "url": "https://github.com/emecede/FlowUpdater/releases/download/v1.0.1/flow-4.109.1.xapk",
-    "sha256": "D065DAA5622186FEE0C076758FAB4DE85B7887E2A230FF43DB82B10F94DEC902",
+    "versionName": "4.110.3",
+    "versionCode": "905100003",
+    "url": "https://github.com/emecede/FlowUpdater/releases/download/v1.0.2/flow-4.110.3.xapk",
+    "sha256": "A274DC866B6ADC266A0DBE64B884BDA7C7D6764703C43AA4EA0B0500A74F0127",
     "notes": ""
   },
   "updater": {
